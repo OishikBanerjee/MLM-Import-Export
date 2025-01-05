@@ -35,5 +35,6 @@ Overall Project Goal:
 
 The primary goal is to derive actionable insights from international trade data. This involves understanding trade patterns, identifying relationships between different trade factors, and developing predictive models to classify transactions effectively. The project uses a diverse set of methods, including data preprocessing, descriptive and inferential statistics, unsupervised learning (clustering), supervised learning (classification), and even ensemble methods to achieve these objectives.
 
-How to Use the Notebook
+
+How to Use the Notebook:
 Clone the repository containing this notebook. Install the required libraries using pip install -r requirements.txt. Open the notebook in Jupyter or any compatible editor. Follow the sections sequentially for a step-by-step walkthrough of the analysis.
