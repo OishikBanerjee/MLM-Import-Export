@@ -136,6 +136,3 @@ The code is available in a Google Colab notebook. To run the code:
 -   Oishik Banerjee
 -   055028
 
-How to Use the Notebook:
-
-Clone the repository containing this notebook. Install the required libraries using pip install -r requirements.txt. Open the notebook in Jupyter or any compatible editor. Follow the sections sequentially for a step-by-step walkthrough of the analysis.
